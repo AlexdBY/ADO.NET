@@ -1,0 +1,14 @@
+D:\Study\C#\Labs\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+D:\Study\C#\Labs\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+D:\Study\C#\Labs\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+D:\Study\C#\Labs\Lab 3\Lab 3\obj\Debug\Lab 3.csprojResolveAssemblyReference.cache
+D:\Study\C#\Labs\Lab 3\Lab 3\obj\Debug\Lab_3.Form1.resources
+D:\Study\C#\Labs\Lab 3\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+D:\Study\C#\Labs\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.Cache
+D:\Study\C#\Labs\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+D:\Study\C#\Labs\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
+D:\Study\C#\Labs\Lab 3\Lab 3\obj\Debug\Lab_3.AddCoffee.resources
+D:\Study\C#\Labs\Lab 3\Lab 3\obj\Debug\Lab_3.DeleteForm.resources
+D:\Work\Scand\Lab 3\Task\bin\Debug\Lab 3.exe.config
+D:\Work\Scand\Lab 3\Task\obj\Debug\Lab 3.exe
+D:\Work\Scand\Lab 3\Task\obj\Debug\Lab 3.pdb

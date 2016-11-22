@@ -1,0 +1,11 @@
+D:\Work\Scand\Lab 3\Task\bin\Debug\Lab 3.exe.config
+D:\Work\Scand\Lab 3\Task\bin\Debug\Lab 3.exe
+D:\Work\Scand\Lab 3\Task\bin\Debug\Lab 3.pdb
+D:\Work\Scand\Lab 3\Task\obj\Debug\Tsak.csprojResolveAssemblyReference.cache
+D:\Work\Scand\Lab 3\Task\obj\Debug\Lab_3.AddCoffee.resources
+D:\Work\Scand\Lab 3\Task\obj\Debug\Lab_3.DeleteForm.resources
+D:\Work\Scand\Lab 3\Task\obj\Debug\Lab_3.Main.resources
+D:\Work\Scand\Lab 3\Task\obj\Debug\Lab_3.Properties.Resources.resources
+D:\Work\Scand\Lab 3\Task\obj\Debug\Tsak.csproj.GenerateResource.Cache
+D:\Work\Scand\Lab 3\Task\obj\Debug\Lab 3.exe
+D:\Work\Scand\Lab 3\Task\obj\Debug\Lab 3.pdb

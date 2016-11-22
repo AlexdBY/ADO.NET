@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Product>
+    <CoffeeID>1</CoffeeID>
+    <CoffeName>Nescafe 4 в 1</CoffeName>
+    <Price>9.25</Price>
+    <Weight>30</Weight>
+    <ManufacturerID>3</ManufacturerID>
+    <DealerID>1</DealerID>
+  </Product>
+  <Product>
+    <CoffeeID>2</CoffeeID>
+    <CoffeName>Cafe Pele</CoffeName>
+    <Price>45.5</Price>
+    <Weight>500</Weight>
+    <ManufacturerID>1</ManufacturerID>
+    <DealerID>2</DealerID>
+  </Product>
+</NewDataSet>
